@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/samuel/myWork/tensorflow/models/practice1_conv/model.ckpt"
+all_model_checkpoint_paths: "/home/samuel/myWork/tensorflow/models/practice1_conv/model.ckpt"
